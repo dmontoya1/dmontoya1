@@ -1,5 +1,21 @@
 # 💫 About Me:
-Backend python developer.<br>Google Cloud Certified Associate and Digital Leader<br>
+
+Desarrollador backend especializado en Python, con amplia experiencia en frameworks como Django, Flask y FastAPI. Certificado por Google Cloud como Associate y Digital Leader, con sólidas habilidades en despliegue y gestión de aplicaciones en la nube. Apasionado por la creación de soluciones eficientes y escalables, y comprometido con las mejores prácticas en desarrollo de software.
+
+### Tecnologías y herramientas
+
+- **Lenguajes**: Python, JavaScript, HTML5
+- **Frameworks**: Django, Django REST Framework, Flask, FastAPI, React, React Native, Next.js
+- **Bases de datos**: SQLite, PostgreSQL, Redis
+- **DevOps**: Google Cloud Platform, Kubernetes, Jenkins, Nginx, Apache, Gunicorn
+- **Control de versiones**: Git, GitHub, GitLab
+- **CI/CD**: GitLab CI, GitHub Actions
+- **Otras herramientas**: Jira, TailwindCSS
+
+### Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- [Instagram](https://www.instagram.com/tu-perfil)
 
 
 ## 🌐 Socials:
